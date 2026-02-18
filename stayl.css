@@ -1,0 +1,306 @@
+.q{
+    display: flex;
+    align-items: center;
+    
+}
+.w{
+    margin-left: 15px;
+}
+a{
+    
+    text-decoration: none;/* a  linkni tagidagi ziziqni o'chirish uchun*/
+    list-style: none;/*ul ani tayidagi ziziqni yoqotadi*/
+    margin-left: 35px;
+    color: black;  
+}
+.r{
+display: flex;
+padding-top: 30px;
+}
+.qqq{
+    width:100%;
+    display: flex;
+  justify-content:space-evenly;
+    align-items: center;
+    text-align: center;    
+}
+.QABULGAYOZILISH{
+    /*display: flex;
+    background-color: red;
+    color: white;    
+    border-radius: 14px;
+    padding: 17px 22px;*/
+    display: flex;
+    background-color: var(--red);
+     color: white;    
+    border-radius: 14px;
+    padding: 17px 22px;
+     margin-left: 30px;
+
+     
+}
+.QABULGAYOZILISH:hover{
+    background-color: transparent;
+    border: 2px solid #de2e54;
+    color: #de2e54;
+    cursor: pointer;/* sichqoncha ustiga kelganda kursorni pointerga o'zgartirish*/
+    transition: all 0.3s ease;/* tezlikni ozgartirish*/
+}
+
+.l{
+    background-color: white;
+}
+.cc{
+    display: flex;
+    background-color: #0eb4c1;
+}
+p{
+    font-size: 20px;
+    color: white;
+}
+
+
+
+
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+p {
+    font-size: 28px;
+}
+.hero {
+    background-color: var(--blue);
+    color: var(--white);
+}
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", "Arial", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #444;
+    background-color: var(--white);
+}
+:root {
+    --red: #de2e54;
+    --blue: #0eb4c1;
+    --white: #fff;
+    --black: #000;
+    
+}
+.pl{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    font-display: swap;
+    padding-left: 250px;
+    padding-top: 80px;
+    color: white;
+    
+    
+}
+.ss{
+    padding-left: 130px;
+}
+.QABULGAYOZILISHh{
+    display: flex;
+    background-color: var(--red);
+     color: white;    
+    border-radius: 14px;
+    padding: 17px 22px;
+}
+.QABULGAYOZILISHh:hover{
+    background-color: transparent;
+        border: 2px solid #de2e54;
+        color: #de2e54;
+        cursor: pointer;
+        /* sichqoncha ustiga kelganda kursorni pointerga o'zgartirish*/
+        transition: all 0.3s ease;
+        /* tezlikni ozgartirish*/
+    }
+.rw{
+    margin-left: 150px;
+}
+.ccx{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    font-size: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.re {
+    display: flex;
+}
+
+.lk {
+    padding-left: 60px;
+
+}
+
+.bn {
+    border-radius: 20px;
+}
+
+.az {
+    display: flex;
+    justify-content: center;
+}
+
+.aza {
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+}
+
+.io {
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+    margin-top: 16px;
+    padding: 12px 40px 12px 40px;
+    margin: 90px;
+
+}
+.io:hover {
+    background-color: transparent;
+    border: 2px solid #de2e54;
+    color: #de2e54
+    ;
+    cursor: pointer;/* sichqoncha ustiga kelganda kursorni pointerga o'zgartirish*/
+    transition: all 0.3s ease;/* tezlikni ozgartirish*/
+}
+
+.ioo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: -30px;
+    padding-bottom: 20px;
+    color: var(--black);
+    color: white;
+    margin-top: 20px;
+   
+}
+
+.poi {
+    background-color: #0eb4c1;
+    height: 250px;
+}
+
+.qx {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.er { 
+    color: white;
+    background-color:  transparent;
+    border-radius: 10px;
+    padding: 12px 40px 12px 40px;
+    border: 2px solid white;
+    
+    
+}
+.er:hover {
+      background-color: transparent;
+    border: 2px solid #de2e54;
+    color: white;
+    background-color: #de2e54;
+    cursor: pointer;/* sichqoncha ustiga kelganda kursorni pointerga o'zgartirish*/
+    transition: all 0.3s ease;/* tezlikni ozgartirish*/
+}
+.err:hover {
+    background-color: transparent;
+    border: 2px solid #de2e54;
+    color: white;
+    background-color: #de2e54;
+    cursor: pointer;/* sichqoncha ustiga kelganda kursorni pointerga o'zgartirish*/
+    transition: all 0.3s ease;/* tezlikni ozgartirish*/
+}
+
+.err {
+    color: white;
+    background-color:  transparent;
+    border-radius: 10px;
+    margin-left: 40px;
+    padding: 12px 40px 12px 40px;
+    text-emphasis-color: var(--red);
+    border: 2px solid white;
+}
+
+.ad {
+    display: flex;
+    justify-content: end;
+    font-size: 5px;
+}
+
+.lkj {
+    background-color: rgba(0, 0, 0, 0.842);
+    padding-top: 25px;
+}
+
+.we {
+    display: flex;
+    padding-left: 30px;
+  
+  
+}
+
+.wq {
+    padding-left: 10px;
+    color: white;
+    font-size: 29px;
+    
+
+}
+
+.ert {
+    padding-right: 30px;
+    display: flex;
+    justify-content: end;
+    color: white;
+}
+
+.a {
+    display: flex;
+    justify-content: end;
+
+}
+
+.ertt {
+    padding-left: 170px;
+    color: white;
+}
+
+.iop {
+    display: flex;
+    justify-content: center;
+    padding-left: 250px;
+    align-items: center;
+    margin-top: -10px;
+}
+.pop{
+    color: #000;
+}
+*{
+    border: none;
+}
